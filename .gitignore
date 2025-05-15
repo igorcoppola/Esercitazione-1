@@ -1,5 +1,7 @@
 [Cc]ompilatore
 *.vscode
+[Hh]tml
+[Ll]atex
 
 # Prerequisites
 *.d
